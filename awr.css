@@ -1,0 +1,48 @@
+ul{
+    list-style-type:none;
+    margin:0px;
+    padding:0;
+
+    background-color: #fecc05;
+    text-align: center;
+  }
+  
+  li {
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #740303;
+    color: aqua;
+  }
+  
+body {background-color: rgb(232, 28, 28);}
+
+table, th, td {
+  border: 1px solid black;
+  border-radius: 10px;
+  font-size: large;
+}
+th {background-color: #fecc05;}
+
+table {background-color: aquamarine;}
+tr {background-color: blanchedalmond;}
+
+td:hover {background-color: rgb(219, 219, 219);}
+
+.noo:hover {text-decoration:overline;color: rgb(204, 0, 255);font-size:x-large;}
+.noo {text-decoration: none;color: cadetblue;}
+
+.container {background-color: antiquewhite;}
+
+.center {text-align: center;color: #740303;}
